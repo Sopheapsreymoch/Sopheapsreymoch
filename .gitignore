@@ -1,0 +1,5 @@
+# Ignore local enviroment files
+
+**/.env
+ai/
+__pycache__/
